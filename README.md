@@ -5,4 +5,4 @@ I'm a software engineer specializing in backend development with **C#** and **.N
 ## 📫 Contact  
 - **Email:** [emensolima@outlook.com.br](mailto:emensolima@outlook.com.br)
 - **Phone:** +55 (85) 981544626
-- **LinkedIn:** [Emenson Lima]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/emensonlima1/)) 
+- **LinkedIn:** [Emenson Lima](https://www.linkedin.com/in/emensonlima1/)
